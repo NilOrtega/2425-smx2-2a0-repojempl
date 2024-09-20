@@ -1,3 +1,8 @@
 # 2425-smx2-2a0-repojempl
-Primer repositorio en SMX2 de ejemplo de uso de la aplicación
-Primer cambio hecho con el bloc de notas en local.
+
+# Encabezado 1
+## Encabezado 2
+### Encabezado 3
+#### H4
+##### H5 
+###### H6
