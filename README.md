@@ -37,4 +37,4 @@ sdadasdadsada
  </head>
 </html>
 ```
-[Enlace a la web del cole](https://.fje.edu/ca/jesuites-bellvitge "Texto" opcional")
+[Enlace a la web del cole](https://www.fje.edu/ca/jesuites-bellvitge "Texto" opcional")
