@@ -38,3 +38,5 @@ sdadasdadsada
 </html>
 ```
 [Enlace a la web del cole](https://www.fje.edu/ca/jesuites-bellvitge "Texto opcional")
+
+![caballo](https://github.com/NilOrtega/2425-smx2-2a0-repojempl/blob/main/caballo.jpg "Titulo opcional de la imagen")
