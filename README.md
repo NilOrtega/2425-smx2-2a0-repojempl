@@ -24,3 +24,17 @@ Este texto esta en *cursiva* y este también está en _cursiva_
 * Elemento 1
 - Elemento 2
 + Elemento 3
+
+csadsaxasdaxas
+
+dasdadasfsff
+
+sdadasdadsada
+
+```HTML
+<html>
+ <head>
+ </head>
+</html>
+```
+[Enlace a la web del cole](https://.fje.edu/ca/jesuites-bellvitge "Texto" opcional")
