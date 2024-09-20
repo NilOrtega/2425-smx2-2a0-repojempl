@@ -6,3 +6,7 @@
 #### H4
 ##### H5 
 ###### H6
+
+Este texto esta en *negrita*
+
+Este texto esta en _cursiva_
