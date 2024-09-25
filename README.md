@@ -40,3 +40,9 @@ sdadasdadsada
 [Enlace a la web del cole](https://www.fje.edu/ca/jesuites-bellvitge "Texto opcional")
 
 ![caballo](https://github.com/NilOrtega/2425-smx2-2a0-repojempl/blob/main/caballo.jpg "Titulo opcional de la imagen")
+
+|Columna 1 |Columna 2 |Columna 3 |
+|--------------|---------------:|---------------:|
+|Col 3 es |right-aligned|$1600|
+|Col 2 es |centered|$12|
+|zebra stripes |son limpias|$1|
